@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-rave"
+description = "Unofficial ComfyUI implementation of [a/RAVE](https://rave-video.github.io/)"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/spacepxl/ComfyUI-RAVE"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-RAVE"
+Icon = ""
